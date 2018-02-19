@@ -12,7 +12,9 @@ so to make recovery of the original is absolutely impossible.
 
 
 ============================================
+
 All rights reserved
+
 Hotaka Shiokawa, Roseanne Cheng, Scott Noble
 
 If you are interested in using the code, please contact Hotaka Shiokawa: hotaka84@gmail.com
